@@ -3,10 +3,15 @@
 """
 
 Python - Recursion
-Recursion allows a function to call itself. Fixed steps of code get executed again and again for new values. We also have to set criteria for deciding when the recursive call ends. In the below example we see a recursive approach to the binary search. We take a sorted list and give its index range as input to the recursive function.
+Recursion allows a function to call itself. Fixed steps of code get executed again and again for new values.
+We also have to set criteria for deciding when the recursive call ends. In the below example we see a recursive
+ approach to the binary search. We take a sorted list and give its index range as input to the recursive function.
 
 Binary Search using Recursion
-We implement the algorithm of binary search using python as shown below. We use an ordered list of items and design a recursive function to take in the list alogn with starting and ending index as input. Then the binary search function calls itself till find the the searched item or concludes about its absence in the list.
+We implement the algorithm of binary search using python as shown below. 
+We use an ordered list of items and design a recursive function to take in the list alogn with starting
+ and ending index as input. Then the binary search function calls itself till find the the searched item 
+ or concludes about its absence in the list.
 
 
 
