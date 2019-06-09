@@ -5,7 +5,11 @@
 Pre-order Traversal
 In this traversal method, the root node is visited first, then the left subtree and finally the right subtree.
 
-In the below python program, we use the Node class to create place holders for the root node as well as the left and right nodes. Then we create a insert function to add data to the tree. Finally the Pre-order traversal logic is implemented by creating an empty list and adding the root node first followed by the left node. At last the right node is added to complete the Pre-order traversal. Please note that this process is repeated for each sub-tree until all the nodes are traversed.
+In the below python program, we use the Node class to create place holders for the root node as well as the left
+ and right nodes. Then we create a insert function to add data to the tree. Finally the Pre-order traversal logic
+  is implemented by creating an empty list and adding the root node first followed by the left node. At last the 
+  right node is added to complete the Pre-order traversal. Please note that this process is repeated for each sub-tree 
+  until all the nodes are traversed.
 
 
 """

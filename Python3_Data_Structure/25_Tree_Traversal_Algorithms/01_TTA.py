@@ -3,15 +3,21 @@
 """
 
 Python - Tree Traversal Algorithms
-Traversal is a process to visit all the nodes of a tree and may print their values too. Because, all nodes are connected via edges (links) we always start from the root (head) node. That is, we cannot randomly access a node in a tree. There are three ways which we use to traverse a tree −
+Traversal is a process to visit all the nodes of a tree and may print their values too.
+Because, all nodes are connected via edges (links) we always start from the root (head) node. 
+That is, we cannot randomly access a node in a tree. There are three ways which we use to traverse a tree −
 
 In-order Traversal
 Pre-order Traversal
 Post-order Traversal
 In-order Traversal
-In this traversal method, the left subtree is visited first, then the root and later the right sub-tree. We should always remember that every node may represent a subtree itself.
+In this traversal method, the left subtree is visited first, then the root and later the right sub-tree.
+We should always remember that every node may represent a subtree itself.
 
-In the below python program, we use the Node class to create place holders for the root node as well as the left and right nodes. Then we create a insert function to add data to the tree. Finally the Inorder traversal logic is implemented by creating an empty list and adding the left node first followed by the root or parent node. At last the left node is added to complete the Inorder traversal. Please note that this process is repeated for each sub-tree until all the nodes are traversed.
+In the below python program, we use the Node class to create place holders for the root node as well as the left and right nodes.
+Then we create a insert function to add data to the tree. Finally the Inorder traversal logic is implemented by creating an empty
+list and adding the left node first followed by the root or parent node. At last the left node is added to complete the Inorder traversal. 
+Please note that this process is repeated for each sub-tree until all the nodes are traversed.
 
 
 """

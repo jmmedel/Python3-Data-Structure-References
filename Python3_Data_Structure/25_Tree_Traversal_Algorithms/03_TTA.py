@@ -4,9 +4,15 @@
 """
 
 Post-order Traversal
-In this traversal method, the root node is visited last, hence the name. First we traverse the left subtree, then the right subtree and finally the root node.
+In this traversal method, the root node is visited last, hence the name.
+ First we traverse the left subtree, then the right subtree and finally the root node.
 
-In the below python program, we use the Node class to create place holders for the root node as well as the left and right nodes. Then we create a insert function to add data to the tree. Finally the Post-order traversal logic is implemented by creating an empty list and adding the left node first followed by the right node. At last the root or parent node is added to complete the Post-order traversal. Please note that this process is repeated for each sub-tree until all the nodes are traversed.
+In the below python program, we use the Node class to create place holders for the root 
+node as well as the left and right nodes. Then we create a insert function to add data to
+ the tree. Finally the Post-order traversal logic is implemented by creating an empty list 
+ and adding the left node first followed by the right node. At last the root or parent node 
+ is added to complete the Post-order traversal. Please note that this process is repeated for 
+ each sub-tree until all the nodes are traversed.
 
 
 """

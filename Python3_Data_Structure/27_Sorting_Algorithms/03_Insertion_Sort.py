@@ -4,7 +4,10 @@
 """
 
 Insertion Sort
-Insertion sort involves finding the right place for a given element in a sorted list. So in beginning we compare the first two elements and sort them by comparing them. Then we pick the third element and find its proper position among the previous two sorted elements. This way we gradually go on adding more elements to the al
+Insertion sort involves finding the right place for a given element in a sorted list.
+ So in beginning we compare the first two elements and sort them by comparing them. 
+ Then we pick the third element and find its proper position among the previous two sorted elements.
+  This way we gradually go on adding more elements to the al
 ready sorted list by putting them in their proper position.
 
 """
