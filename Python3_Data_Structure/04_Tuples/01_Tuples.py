@@ -5,9 +5,12 @@
 
 
 Python - Tuples
-A tuple is a sequence of immutable Python objects. Tuples are sequences, just like lists. The differences between tuples and lists are, the tuples cannot be changed unlike lists and tuples use parentheses, whereas lists use square brackets.
+A tuple is a sequence of immutable Python objects. Tuples are sequences,
+ just like lists. The differences between tuples and lists are, the tuples 
+ cannot be changed unlike lists and tuples use parentheses, whereas lists use square brackets.
 
-Creating a tuple is as simple as putting different comma-separated values. Optionally you can put these comma-separated values between parentheses also. For example −
+Creating a tuple is as simple as putting different comma-separated values. Optionally you
+ can put these comma-separated values between parentheses also. For example −
 
 The empty tuple is written as two parentheses containing nothing −
 
@@ -18,7 +21,8 @@ tup1 = (50,);
 Like string indices, tuple indices start at 0, and they can be sliced, concatenated, and so on.
 
 Accessing Values in Tuples
-To access values in tuple, use the square brackets for slicing along with the index or indices to obtain value available at that index. For example −
+To access values in tuple, use the square brackets for slicing along with the index or 
+indices to obtain value available at that index. For example −
 
 """
 

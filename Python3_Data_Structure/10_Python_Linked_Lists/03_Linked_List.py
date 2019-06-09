@@ -7,10 +7,13 @@
 
 Insertion in a Linked List
 
-Inserting element in the linked list involves reassigning the pointers from the existing nodes to the newly inserted node. Depending on whether the new data element is getting inserted at the beginning or at the middle or at the end of the linked list, we have the below scenarios.
+Inserting element in the linked list involves reassigning the pointers from the existing nodes to the newly inserted node.
+Depending on whether the new data element is getting inserted at the beginning or at the middle or at the end of the linked list,
+we have the below scenarios.
 Inserting at the Beginning of the Linked List
 
-This involves pointing the next pointer of the new data node to the current head of the linked list. So the current head of the linked list becomes the second data element and the new node becomes the head of the linked list. 
+This involves pointing the next pointer of the new data node to the current head of the linked list.
+ So the current head of the linked list becomes the second data element and the new node becomes the head of the linked list. 
 
 
 

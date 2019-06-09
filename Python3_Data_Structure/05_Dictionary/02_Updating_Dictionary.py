@@ -4,7 +4,8 @@
 """
 
 Updating Dictionary
-You can update a dictionary by adding a new entry or a key-value pair, modifying an existing entry, or deleting an existing entry as shown below in the simple example −
+You can update a dictionary by adding a new entry or a key-value pair, modifying an existing entry,
+ or deleting an existing entry as shown below in the simple example −
 
 
 """

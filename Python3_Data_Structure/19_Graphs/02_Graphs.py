@@ -36,7 +36,7 @@ print(g.getVertices())
 
 When the above code is executed, it produces the following result −
 
-['d', 'b', 'e', 'c', 'a']
+['a', 'b', 'c', 'd', 'e']
 
 
 """

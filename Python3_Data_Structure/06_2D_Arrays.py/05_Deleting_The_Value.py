@@ -4,7 +4,9 @@
 """
 
 Deleting the Values in Two Dimensional Array
-We can delete the entire inner array or some specific data elements of the inner array by reassigning the values using the del() method with index. But in case you need to remove specific data elements in one of the inner arrays, then use the update process described above.
+We can delete the entire inner array or some specific data elements of the 
+inner array by reassigning the values using the del() method with index. 
+But in case you need to remove specific data elements in one of the inner arrays, then use the update process described above.
 
 
 """

@@ -3,7 +3,8 @@
 """
 
 Updating Lists
-You can update single or multiple elements of lists by giving the slice on the left-hand side of the assignment operator, and you can add to elements in a list with the append() method. For example −
+You can update single or multiple elements of lists by giving the slice 
+on the left-hand side of the assignment operator, and you can add to elements in a list with the append() method. For example −
 
 
 """

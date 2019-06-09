@@ -5,7 +5,9 @@
 
 Python - Lists
 
-The list is a most versatile datatype available in Python which can be written as a list of comma-separated values (items) between square brackets. Important thing about a list is that items in a list need not be of the same type.
+The list is a most versatile datatype available in Python which can be
+ written as a list of comma-separated values (items) between square brackets.
+  Important thing about a list is that items in a list need not be of the same type.
 
 Creating a list is as simple as putting different comma-separated values between square brackets. For example −
 
@@ -15,7 +17,8 @@ list3 = ["a", "b", "c", "d"]
 Similar to string indices, list indices start at 0, and lists can be sliced, concatenated and so on.
 
 Accessing Values in Lists
-To access values in lists, use the square brackets for slicing along with the index or indices to obtain value available at that index. For example −
+To access values in lists, use the square brackets for slicing along
+ with the index or indices to obtain value available at that index. For example −
 
 """
 

@@ -5,7 +5,10 @@
 
 POP from a Stack
 
-As we know we can remove only the too most data element from the stack, we implement a python program which does that. The remove function in the following program returns the top most element. we check the top element by calculating the size of the stack first and then use the in-built pop() method to find out the top most element.
+As we know we can remove only the too most data element from the stack,
+we implement a python program which does that. The remove function in the 
+following program returns the top most element. we check the top element by 
+calculating the size of the stack first and then use the in-built pop() method to find out the top most element.
 
 
 

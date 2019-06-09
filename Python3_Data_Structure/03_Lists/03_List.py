@@ -4,7 +4,8 @@
 """
 
 Delete List Elements
-To remove a list element, you can use either the del statement if you know exactly which element(s) you are deleting or the remove() method if you do not know. For example −
+To remove a list element, you can use either the del statement if you know exactly which
+ element(s) you are deleting or the remove() method if you do not know. For example −
 
 
 """
@@ -31,7 +32,8 @@ Note − remove() method is discussed in subsequent section.
 """
 
 Basic List Operations
-Lists respond to the + and * operators much like strings; they mean concatenation and repetition here too, except that the result is a new list, not a string.
+Lists respond to the + and * operators much like strings; they mean concatenation 
+and repetition here too, except that the result is a new list, not a string.
 
 In fact, lists respond to all of the general sequence operations we used on strings in the prior chapter.
 

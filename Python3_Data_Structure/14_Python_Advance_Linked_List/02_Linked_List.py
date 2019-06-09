@@ -5,8 +5,9 @@
 
 Inserting into Doubly Linked List
 
-here we are going to see how to insert a node to the Doubly Link List using the following program. The program uses a menthod named insert which inserts the new node at th
-e third position from the head of the doubly linked list.
+here we are going to see how to insert a node to the Doubly Link List using the following program.
+The program uses a menthod named insert which inserts the new node at the
+ third position from the head of the doubly linked list.
 
 """
 

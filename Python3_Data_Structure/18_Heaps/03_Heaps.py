@@ -4,7 +4,8 @@
 """
 
 Removing from heap
-You can remove the element at first index by using this function. In the below example the function will always remove the element at the index position 1.
+You can remove the element at first index by using this function. 
+In the below example the function will always remove the element at the index position 1.
 
 """
 

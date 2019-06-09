@@ -6,7 +6,10 @@
 
 Inserting in between two Data Nodes
 
-This involves chaging the pointer of a specific node to point to the new node. That is possible by passing in both the new node and the existing node after which the new node will be inserted. So we define an additional class which will change the next pointer of the new node to the next pointer of middle node. Then assign the new node to next pointer of the middle node.
+This involves chaging the pointer of a specific node to point to the new node. 
+That is possible by passing in both the new node and the existing node after which the new node will be inserted. 
+So we define an additional class which will change the next pointer of the new node to the next pointer of middle node. 
+Then assign the new node to next pointer of the middle node.
 
 
 

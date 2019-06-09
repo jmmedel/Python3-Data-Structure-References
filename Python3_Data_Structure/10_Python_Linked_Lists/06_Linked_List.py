@@ -6,7 +6,9 @@
 
 Removing an Item form a Liked List
 
-We can remove an existing node using the key for that node. In the below program we locate the previous node of the node which is to be deleted. Then point the next pointer of this node to the next node of the node to be deleted
+We can remove an existing node using the key for that node. 
+In the below program we locate the previous node of the node which is to be deleted. 
+Then point the next pointer of this node to the next node of the node to be deleted
 
 
 

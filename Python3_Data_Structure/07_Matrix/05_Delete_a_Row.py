@@ -5,7 +5,8 @@
 """
 
 Delete a row form a Matrix
-We can delete a row from a matrix using the delete() method. We have to specify the index of the row and also the axis value which is 0 for a row and 1 for a column.
+We can delete a row from a matrix using the delete() method. We have to specify the index 
+of the row and also the axis value which is 0 for a row and 1 for a column.
 
 
 

@@ -5,11 +5,16 @@
 
 Python - Search Tree
 
-A Binary Search Tree (BST) is a tree in which all the nodes follow the below-mentioned properties − The left sub-tree of a node has a key less than or equal to its parent node's key. The right sub-tree of a node has a key greater than to its parent node's key. Thus, BST divides all its sub-trees into two segments; the left sub-tree and the right sub-tree and can be defined as –
+A Binary Search Tree (BST) is a tree in which all the nodes follow the below-mentioned properties −
+The left sub-tree of a node has a key less than or equal to its parent node's key. The right sub-tree 
+of a node has a key greater than to its parent node's key. Thus, BST divides all its sub-trees into two
+ segments; the left sub-tree and the right sub-tree and can be defined as –
 
 left_subtree (keys)  ≤  node (key)  ≤  right_subtree (keys)
 Search for a value in a B-tree
-Searching for a value in a tree involves comparing the incoming value with the value exiting nodes. Here also we traverse the nodes from left to right and then finally with the parent. If the searched for value does not match any of the exitign value, then we return not found message else the found message is returned.
+Searching for a value in a tree involves comparing the incoming value with the value exiting nodes.
+Here also we traverse the nodes from left to right and then finally with the parent. If the searched 
+for value does not match any of the exitign value, then we return not found message else the found message is returned.
 
 """
 

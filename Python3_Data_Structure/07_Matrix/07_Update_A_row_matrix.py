@@ -5,7 +5,8 @@
 
 
 Update a row in in a Matrix
-To update the values in the row of a matrix we simply re-assign the values at the index of the row. In the below example all the values for thrursday's data is marked as zero. The index for this row is 3.
+To update the values in the row of a matrix we simply re-assign the values at the index of the row.
+ In the below example all the values for thrursday's data is marked as zero. The index for this row is 3.
 
 
 """

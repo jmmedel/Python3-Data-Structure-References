@@ -5,7 +5,8 @@
 
 Removing Item from a Set
 
-We can remove elements from a set by using discard() method. Again as discussed there is no specific index attached to the newly added element.
+We can remove elements from a set by using discard() method.
+ Again as discussed there is no specific index attached to the newly added element.
 
 
 

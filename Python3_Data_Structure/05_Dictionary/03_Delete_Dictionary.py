@@ -4,7 +4,8 @@
 """
 
 Delete Dictionary Elements
-You can either remove individual dictionary elements or clear the entire contents of a dictionary. You can also delete entire dictionary in a single operation.
+You can either remove individual dictionary elements or clear the entire contents of a dictionary. 
+You can also delete entire dictionary in a single operation.
 
 To explicitly remove an entire dictionary, just use the del statement. Following is a simple example −
 

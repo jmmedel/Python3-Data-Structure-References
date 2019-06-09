@@ -7,7 +7,8 @@
 
 Compare Sets
 
-We can check if a given set is a subset or superset of another set. The result is True or False depending on the elements present in the sets.
+We can check if a given set is a subset or superset of another set. The result is 
+True or False depending on the elements present in the sets.
 
 """
 

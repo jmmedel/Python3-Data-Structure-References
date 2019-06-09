@@ -5,7 +5,9 @@
 
 Traversing the Node Elements
 
-We can traverse the elements of the node created above by creating a variable and assigning the first element to it. Then we use a while loop and nextval pointer to print out all the node elements. Note that we have one more additional data element and the nextval pointers are properly arranged to get the output as a days of a week in a proper sequence.
+We can traverse the elements of the node created above by creating a variable and assigning the first element to it. 
+Then we use a while loop and nextval pointer to print out all the node elements. Note that we have one more additional
+ data element and the nextval pointers are properly arranged to get the output as a days of a week in a proper sequence.
 
 
 

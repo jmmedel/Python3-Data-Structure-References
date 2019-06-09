@@ -7,7 +7,9 @@
 
 Difference of Sets
 
-The difference operation on two sets produces a new set containing only the elements from the first set and none from the second set. In the below example the element “Wed” is present in both the sets so it will not be found in the result set.
+The difference operation on two sets produces a new set containing only the elements from
+the first set and none from the second set. In the below example the element “Wed” is present
+ in both the sets so it will not be found in the result set.
 
 
 """

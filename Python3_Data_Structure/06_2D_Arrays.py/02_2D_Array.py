@@ -3,7 +3,8 @@
 
 """
 
-To print out the entire two dimensional array we can use python for loop as shown below. We use end of line to print out the values in different rows.
+To print out the entire two dimensional array we can use python for 
+loop as shown below. We use end of line to print out the values in different rows.
 
 
 """

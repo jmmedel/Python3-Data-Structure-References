@@ -7,7 +7,8 @@
 
 Inserting at the End of the Linked List
 
-This involves pointing the next pointer of the the current last node of the linked list to the new data node. So the current last node of the linked list becomes the second last data node and the new node becomes the last node of the linked list. 
+This involves pointing the next pointer of the the current last node of the linked list to the new data node.
+ So the current last node of the linked list becomes the second last data node and the new node becomes the last node of the linked list. 
 
 
 """

@@ -4,7 +4,8 @@
 """
 
 Replacing in a Heap
-The heapreplace function always removes the smallest element of the heap and inserts the new incoming element at some place not fixed by any order.
+The heapreplace function always removes the smallest element of the heap and inserts
+ the new incoming element at some place not fixed by any order.
 
 
 

@@ -4,7 +4,8 @@
 """
 
 Accessing Values in a Matrix
-The data elements in a matrix can be accessed by using the indexes. The access methos is same as the way data is accessed in Two dimensional array.
+The data elements in a matrix can be accessed by using the indexes.
+The access methos is same as the way data is accessed in Two dimensional array.
 
 
 

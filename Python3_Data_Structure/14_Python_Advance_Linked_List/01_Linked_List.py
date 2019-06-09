@@ -7,7 +7,9 @@
 Python - Advanced Linked list
 
 
-We have already seen Linked List in earlier chapter in whihc it is possible only to travle forward. In this chapter we see another type of linked list in which it is possible to travle both forward and backward. Such a linked list is called Doubly Linked List. Following is the features of doubly linked list.
+We have already seen Linked List in earlier chapter in whihc it is possible only to travle forward. 
+In this chapter we see another type of linked list in which it is possible to travle both forward and backward. 
+Such a linked list is called Doubly Linked List. Following is the features of doubly linked list.
 
     Doubly Linked List contains a link element called first and last.
     Each link carries a data field(s) and two link fields called next and prev.
@@ -17,13 +19,15 @@ We have already seen Linked List in earlier chapter in whihc it is possible only
 
 Creating Doubly linked list
 
-We create a Doubly Linked list by using the Node class. Now we use the same approach as used in the Singly Linked List but the head and next pointers will be used for proper assignation to create two links in each of the nodes in addition to the data present in the node.
+We create a Doubly Linked list by using the Node class. Now we use the same approach as used in the Singly 
+Linked List but the head and next pointers will be used for proper assignation to create two links in each 
+of the nodes in addition to the data present in the node.
 
 """
 
 
 class Node:
-       def __init__(self, data):
+   def __init__(self, data):
       self.data = data
       self.next = None
       self.prev = None

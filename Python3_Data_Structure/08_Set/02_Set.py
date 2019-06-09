@@ -3,7 +3,8 @@
 
 Accessing Values in a Set
 
-We cannot access individual values in a set. We can only access all the elements together as shown above. But we can also get a list of individual elements by looping through the set.
+We cannot access individual values in a set. We can only access all the elements together as shown above.
+ But we can also get a list of individual elements by looping through the set.
 
 
 """

@@ -4,7 +4,8 @@
 """
 
 Updating Tuples
-Tuples are immutable which means you cannot update or change the values of tuple elements. You are able to take portions of existing tuples to create new tuples as the following example demonstrates −
+Tuples are immutable which means you cannot update or change the values of tuple elements. 
+You are able to take portions of existing tuples to create new tuples as the following example demonstrates −
 
 
 """

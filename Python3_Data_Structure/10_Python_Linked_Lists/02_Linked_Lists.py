@@ -6,7 +6,8 @@
 Traversing a Linked List
 
 
-Singly linked lists can be traversed in only forwrad direction starting form the first data element. We simply print the value of the next data element by assgining the pointer of the next node to the current data element. 
+Singly linked lists can be traversed in only forwrad direction starting form the first data element. 
+We simply print the value of the next data element by assgining the pointer of the next node to the current data element. 
 
 
 """

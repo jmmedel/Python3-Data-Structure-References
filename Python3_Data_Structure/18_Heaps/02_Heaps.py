@@ -4,7 +4,9 @@
 """
 
 Inserting into heap
-Inserting a data element to a heap always adds the element at the last index. But you can apply heapify function again to bring the newly added element to the first index only if it smallest in value. In the below example we insert the number 8.
+Inserting a data element to a heap always adds the element at the last index.
+ But you can apply heapify function again to bring the newly added element to the
+  first index only if it smallest in value. In the below example we insert the number 8.
 
 
 

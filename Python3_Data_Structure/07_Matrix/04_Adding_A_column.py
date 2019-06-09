@@ -4,7 +4,9 @@
 """
 
 Adding a column
-We can add column to a matrix using the insert() method. here we have to mention the index where we want to add the column and a array containing the new values of the columns added. In the below example we add t a new column at the fifth position from the begining.
+We can add column to a matrix using the insert() method. here we have to mention
+ the index where we want to add the column and a array containing the new values of
+  the columns added. In the below example we add t a new column at the fifth position from the begining.
 
 
 """

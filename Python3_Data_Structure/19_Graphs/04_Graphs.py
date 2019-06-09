@@ -5,7 +5,8 @@
 
 
 Adding an edge
-Adding an edge to an existing graph involves treating the new vertex as a tuple and validating if the edge is already present. If not then the edge is added.
+Adding an edge to an existing graph involves treating the new vertex as a tuple and validating
+ if the edge is already present. If not then the edge is added.
 
 
 """
@@ -50,14 +51,14 @@ graph_elements = { "a" : ["b","c"],
 g = graph(graph_elements)
 g.AddEdge({'a','e'})
 g.AddEdge({'a','c'})
-print(g.edges()
-
+print(g.edges())
 
 """
-
 When the above code is executed, it produces the following result −
 
-[{'e', 'd'}, {'b', 'a'}, {'b', 'd'}, {'a', 'c'}, {'a', 'e'}, {'c', 'd'}]
-
+[{'b', 'a'}, {'a', 'c'}, {'a', 'e'}, {'b', 'd'}, {'c', 'd'}, {'e', 'd'}]
 
 """
+
+
+

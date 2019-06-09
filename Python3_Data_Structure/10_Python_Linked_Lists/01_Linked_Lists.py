@@ -5,10 +5,21 @@
 
 Python - Linked Lists
 
-A linked list is a sequence of data elements, which are connected together via links. Each data element contains a connection to another data element in form of a pointer. Python does not have linked lists in its standard library. We implement the concept of linked lists using the concept of nodes as discussed in the previous chapter. We have already seen how we create a node class and how to traverse the elements of a node. In this chapter we are going to study the types of linked lists known as singly linked lists. In this type of data structure there is only one link between any two data elements. We create such a list and create additional methods to insert, update and remove elements from the list.
+A linked list is a sequence of data elements, which are connected together via links.
+ Each data element contains a connection to another data element in form of a pointer. 
+ Python does not have linked lists in its standard library. We implement the concept of 
+ linked lists using the concept of nodes as discussed in the previous chapter. We have 
+ already seen how we create a node class and how to traverse the elements of a node. 
+ In this chapter we are going to study the types of linked lists known as singly linked lists. 
+ In this type of data structure there is only one link between any two data elements. 
+ We create such a list and create additional methods to insert, update and remove elements from the list.
 Creation of Linked list
 
-A linked list is created by using the node class we studied in the last chapter. We create a Node object and create another class to use this ode object. We pass the appropriate values thorugh the node object to point the to the next data elements. The below program creates the linked list with three data elements. In the next section we will see how to traverse the linked list.
+A linked list is created by using the node class we studied in the last chapter.
+ We create a Node object and create another class to use this ode object. 
+ We pass the appropriate values thorugh the node object to point the to the next data elements. 
+ The below program creates the linked list with three data elements. 
+ In the next section we will see how to traverse the linked list.
 
 
 

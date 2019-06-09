@@ -5,7 +5,8 @@
 
 Union of Sets
 
-The union operation on two sets produces a new set containing all the distinct elements from both the sets. In the below example the element “Wed” is present in both the sets.
+The union operation on two sets produces a new set containing all the distinct elements from both the sets. 
+In the below example the element “Wed” is present in both the sets.
 
 
 """
