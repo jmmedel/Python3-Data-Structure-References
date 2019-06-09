@@ -4,10 +4,14 @@
 
 Python - Searching Algorithms
 
-Searching is a very basic necessity when you store data in different data structures. The simplest appraoch is to go across every element in the data structure and match it with the value you are searching for. This is known as Linear search. It is inefficient and rarely used, but creating a program for it gives an idea about how we can implement some advanced search algorithms.
+Searching is a very basic necessity when you store data in different data structures.
+ The simplest appraoch is to go across every element in the data structure and match it 
+ with the value you are searching for. This is known as Linear search. It is inefficient and rarely used,
+  but creating a program for it gives an idea about how we can implement some advanced search algorithms.
 
 Linear Search
-In this type of search, a sequential search is made over all items one by one. Every item is checked and if a match is found then that particular item is returned, otherwise the search continues till the end of the data structure.
+In this type of search, a sequential search is made over all items one by one. Every item is checked and 
+if a match is found then that particular item is returned, otherwise the search continues till the end of the data structure.
 
 
 
